@@ -1,0 +1,15 @@
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\ConsoleApp.Compilertest\bin\Debug\net5.0\ConsoleApp.Compilertest.exe
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\ConsoleApp.Compilertest\bin\Debug\net5.0\ConsoleApp.Compilertest.deps.json
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\ConsoleApp.Compilertest\bin\Debug\net5.0\ConsoleApp.Compilertest.runtimeconfig.json
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\ConsoleApp.Compilertest\bin\Debug\net5.0\ConsoleApp.Compilertest.runtimeconfig.dev.json
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\ConsoleApp.Compilertest\bin\Debug\net5.0\ConsoleApp.Compilertest.dll
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\ConsoleApp.Compilertest\bin\Debug\net5.0\ref\ConsoleApp.Compilertest.dll
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\ConsoleApp.Compilertest\bin\Debug\net5.0\ConsoleApp.Compilertest.pdb
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\ConsoleApp.Compilertest\obj\Debug\net5.0\ConsoleApp.Compilertest.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\ConsoleApp.Compilertest\obj\Debug\net5.0\ConsoleApp.Compilertest.AssemblyInfoInputs.cache
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\ConsoleApp.Compilertest\obj\Debug\net5.0\ConsoleApp.Compilertest.AssemblyInfo.cs
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\ConsoleApp.Compilertest\obj\Debug\net5.0\ConsoleApp.Compilertest.csproj.CoreCompileInputs.cache
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\ConsoleApp.Compilertest\obj\Debug\net5.0\ConsoleApp.Compilertest.dll
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\ConsoleApp.Compilertest\obj\Debug\net5.0\ref\ConsoleApp.Compilertest.dll
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\ConsoleApp.Compilertest\obj\Debug\net5.0\ConsoleApp.Compilertest.pdb
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\ConsoleApp.Compilertest\obj\Debug\net5.0\ConsoleApp.Compilertest.genruntimeconfig.cache

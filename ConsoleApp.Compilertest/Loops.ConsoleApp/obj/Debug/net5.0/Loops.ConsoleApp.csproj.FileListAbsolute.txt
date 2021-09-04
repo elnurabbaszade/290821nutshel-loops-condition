@@ -1,0 +1,16 @@
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\Loops.ConsoleApp\bin\Debug\net5.0\Loops.ConsoleApp.exe
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\Loops.ConsoleApp\bin\Debug\net5.0\Loops.ConsoleApp.deps.json
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\Loops.ConsoleApp\bin\Debug\net5.0\Loops.ConsoleApp.runtimeconfig.json
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\Loops.ConsoleApp\bin\Debug\net5.0\Loops.ConsoleApp.runtimeconfig.dev.json
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\Loops.ConsoleApp\bin\Debug\net5.0\Loops.ConsoleApp.dll
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\Loops.ConsoleApp\bin\Debug\net5.0\ref\Loops.ConsoleApp.dll
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\Loops.ConsoleApp\bin\Debug\net5.0\Loops.ConsoleApp.pdb
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\Loops.ConsoleApp\obj\Debug\net5.0\Loops.ConsoleApp.csproj.AssemblyReference.cache
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\Loops.ConsoleApp\obj\Debug\net5.0\Loops.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\Loops.ConsoleApp\obj\Debug\net5.0\Loops.ConsoleApp.AssemblyInfoInputs.cache
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\Loops.ConsoleApp\obj\Debug\net5.0\Loops.ConsoleApp.AssemblyInfo.cs
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\Loops.ConsoleApp\obj\Debug\net5.0\Loops.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\Loops.ConsoleApp\obj\Debug\net5.0\Loops.ConsoleApp.dll
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\Loops.ConsoleApp\obj\Debug\net5.0\ref\Loops.ConsoleApp.dll
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\Loops.ConsoleApp\obj\Debug\net5.0\Loops.ConsoleApp.pdb
+E:\CodeAcademy\P512\p512-csharp-lesson1-20210829\ConsoleApp.Compilertest\Loops.ConsoleApp\obj\Debug\net5.0\Loops.ConsoleApp.genruntimeconfig.cache
